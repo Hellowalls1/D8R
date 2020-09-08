@@ -1,0 +1,13 @@
+C:\Users\User\workspace\D8r\D8r\bin\Debug\netcoreapp3.1\D8r.exe
+C:\Users\User\workspace\D8r\D8r\bin\Debug\netcoreapp3.1\D8r.deps.json
+C:\Users\User\workspace\D8r\D8r\bin\Debug\netcoreapp3.1\D8r.runtimeconfig.json
+C:\Users\User\workspace\D8r\D8r\bin\Debug\netcoreapp3.1\D8r.runtimeconfig.dev.json
+C:\Users\User\workspace\D8r\D8r\bin\Debug\netcoreapp3.1\D8r.dll
+C:\Users\User\workspace\D8r\D8r\bin\Debug\netcoreapp3.1\D8r.pdb
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.csprojAssemblyReference.cache
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.AssemblyInfoInputs.cache
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.AssemblyInfo.cs
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.csproj.CoreCompileInputs.cache
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.dll
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.pdb
+C:\Users\User\workspace\D8r\D8r\obj\Debug\netcoreapp3.1\D8r.genruntimeconfig.cache
